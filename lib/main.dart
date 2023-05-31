@@ -81,18 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
         body:
-            // Container(
-            //   child: Column(
-            //     children: [
-            //       TextButton(child: Text("to new route"), onPressed: () {
-            //         Navigator.push(context, MaterialPageRoute(builder: (context){
-            //           return NewRoute();
-            //         }));
-            //       })
-            //     ],
-            //   ),
-            // )
-
+            ///第三章 基础组件
             // TextDemo()
             // ButtonDemo()
             // ImagesDemo()
